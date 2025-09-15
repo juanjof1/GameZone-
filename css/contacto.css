@@ -1,0 +1,6 @@
+@import url(main.css);
+
+p{
+ display: flex;
+ text-align: center;
+}

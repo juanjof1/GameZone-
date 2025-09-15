@@ -1,0 +1,38 @@
+@import url(main.css);
+
+@media (max-width: 576px) {
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .card-title {
+    font-size: 1.1rem;
+  }
+
+  .btn {
+    font-size: 0.9rem;
+    padding: 0.5rem 1rem;
+  }
+
+  .card-text {
+    font-size: 0.9rem;
+  }
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: auto;
+}
+
+.card {
+  border-radius: 0.75rem;
+  overflow: hidden;
+}
+
+.card-body {
+  font-size: 0.95rem;
+}
+
+
+
+
